@@ -31,14 +31,14 @@ Make sure to add a bot user to your Slack app.
 
 Install your new Slack app into your Slack workspace. You can do that directly from the Slack app admin page where you created your app. Go to Oauth & Permissions. page and click on "Install App".
 
-After you installed the app your Slack API tokens will be shown on that page. We would recommend using the "Bot User Oauth Token" (aka bot token) for your slackbot.
+After you installed the app your Slack API tokens will be shown on that page. We would recommend using the "Bot User Oauth Token" (aka "bot token") for your slackbot.
 
 ### 6 - Set environment variable for your bot token
 
 Finally you need to give your Python slackbot access to your bot token. For that just set the environment variable SLACKBOT_API_TOKEN to your bot token.
 
 
-## Run your bo
+## Run your bot
 
 To run your bot execute the `run.py`.
 
