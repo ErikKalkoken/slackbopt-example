@@ -44,7 +44,9 @@ To run your bot execute the `run.py`.
 
 `$ python run.py`
 
-To test that everything works go to any public channel and try to talk to your bot, e.g.
+To test that everything works go to any public channel and invite your bot user into that channel.
+
+Then try to talk to your bot, e.g.
 
 `@botuser hi`
 
